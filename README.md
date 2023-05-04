@@ -11,7 +11,7 @@ __Atenção!__ <br>
 O resultado da execução deste código é diferente do que se espera para o resultado comum do algoritmo, pois a heurística é baseada nas coordenadas apresentadas a partir da linha 31.
 <br>
 
-#### __O código abaixo foi baseado no código disponível em:__ 
+#### __O código foi baseado no algoritmo disponível em:__ 
     https://stackabuse.com/courses/graphs-in-python-theory-and-implementation/lessons/a-star-search-algorithm/
 
 __Linguagem Utilizada:__
