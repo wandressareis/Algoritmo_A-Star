@@ -23,4 +23,6 @@ __Versão:__
     Python 3.10.9
 
 __Para executar o código:__ <br>
-Com o Python instalado na máquina, para executar o código, basta abrir o terminal na pasta onde o arquivo está salvo e digitar:  __python3 a-star.py__
+Com o Python instalado na máquina, para executar o código, basta abrir o terminal na pasta onde o arquivo está salvo e digitar:  
+
+    python3 a-star.py
